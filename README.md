@@ -18,4 +18,3 @@
 * numpy
 * matplotlib.pyplot
 * scipy.stats
-* os
