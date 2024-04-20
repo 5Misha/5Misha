@@ -18,3 +18,5 @@
 * numpy
 * matplotlib.pyplot
 * scipy.stats
+
+Жду в репозитории с моими проектами)
