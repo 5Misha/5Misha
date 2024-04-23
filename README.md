@@ -6,7 +6,7 @@
 
 Знание таких языков, как:
 * Python
-* SQL
+* SQL(PostgreSQL, PySpark)
 * C++
 * MatLab
 * MathCad
@@ -18,5 +18,6 @@
 * numpy
 * matplotlib.pyplot
 * scipy.stats
+* keras
 
 Жду в репозитории с моими проектами)
