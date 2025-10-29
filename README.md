@@ -17,6 +17,7 @@
 * Jupyter Notebook
 * MicroCap
 * SPlan
+* Micro-Cap
 * MathCad
 * Matlab
 * Docker
